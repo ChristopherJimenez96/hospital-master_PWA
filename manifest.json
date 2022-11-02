@@ -1,0 +1,22 @@
+{
+    "name": "Sistema Clinica",
+    "short_name": "SisClinica",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./images/logo.png",
+            "type": "image/png",
+            "sizes": "1058x263"
+        },
+        {
+            "src": "./images/logol.png",
+            "type": "image/png",
+            "sizes": "265x263"
+        }
+    ]
+}
